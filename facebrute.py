@@ -25,7 +25,7 @@
 # SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
-__author__ = "emerino <donvodka@gmail.com>"
+__author__ = "emerino <ittz@live.dk>"
 __version__ = "0.3"
 
 import time
